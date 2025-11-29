@@ -1,6 +1,6 @@
-## Mk Othello: Privacy policy
+## MK Othello: Privacy policy
 
-Welcome to the Mk Othello app for Android!
+Welcome to the MK Othello app for Android!
 
 This is an Android app developed by mkshop.
 
@@ -20,5 +20,5 @@ This app does not require any special permissions to function.
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email.
 
 Yours sincerely,  
-Tirta
+MKShop Team
 tirta.mkshop@gmail.com
