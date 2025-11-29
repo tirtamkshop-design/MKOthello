@@ -1,6 +1,6 @@
-## Mkothello: Privacy policy
+## Mk Othello: Privacy policy
 
-Welcome to the Mkothello app for Android!
+Welcome to the Mk Othello app for Android!
 
 This is an Android app developed by mkshop.
 
