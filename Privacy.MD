@@ -9,7 +9,7 @@ I know how frustrating it is when apps collect your data without your knowledge.
 
 ### Data collected by the app
 
-I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data (app preferences (like the settings)) created by you (the user) is stored locally in your device only, and can be simply erased by clearing the app's data or uninstalling it. No analytics software is present in the app either.
+I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data (app preferences (like the settings)) created by you (the user) is stored locally in your device only, and can be simply erased by clearing the app's data or uninstalling it. No internet connectivity is required to run this program (Except when you download or update the App).
 
 ### Explanation of permissions requested in the app
 This app does not require any special permissions to function.
